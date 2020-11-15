@@ -206,7 +206,7 @@ namespace Projet_OOP
 
 
 
-            Console.WriteLine("bonjour");
+            Console.WriteLine("bonjour maxime");
             Console.ReadKey();
         }
     }
